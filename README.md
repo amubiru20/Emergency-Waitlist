@@ -77,10 +77,14 @@
 - Title: Hospital Triage - User Page.
 - Form: Dropdowns for injury types and pain levels.
 - Submit button styled in blue.
+![Screenshot 2024-11-26 175237](https://github.com/user-attachments/assets/9f1b2772-9ea1-4234-b711-43848b195da6)
+
 
 ### Admin Page
 - Table: Organized data for triage management.
 - Action Buttons: Red for critical actions.
+![Screenshot 2024-11-26 175256](https://github.com/user-attachments/assets/f3cc02bf-456f-4f13-ac77-202fdf3f6ba0)
+
 
 
 ---
